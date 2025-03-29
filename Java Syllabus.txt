@@ -1,0 +1,123 @@
+According to BOSSCOSER Acadmeny 
+
+1. Java
+Topics that will be covered -
+
+Introduction to Programming
+Input Output and Data Types
+Operators
+Conditional Statements
+Loops
+Pattern Problems
+Functions
+1D Array
+Number System & Maths
+String Implementation
+Introduction to Data Structures
+Time & Space Complexity
+
+Module 1
+
+- Advanced Starting Point
+
+Master Problem Solving in DS & Algo
+Topics that will be covered -
+
+Linear DSA
+
+1D & 2D Array
+Strings
+Number System & Maths
+Bit Manipulation
+Binary Search
+2 pointers
+Recursion
+Hashing
+Sorting
+Linked List
+Stacks & Queues
+Non-linear DSA
+
+Trees
+Binary Trees & Binary Search Trees
+Heaps
+Greedy Algorithms
+Dynamic Programming
+Graphs
+Advanced DSA
+
+Tries
+Segment Tree
+String Pattern Matching
+Advanced DP & Graph Problems
+outcomes
+Outcomes:
+
+After these 15 weeks, you will :
+
+Feel confident in your problem solving skills.
+Develop pattern recognition skills required to crack hard level DSA problems.
+Be interview ready with DSA to crack top tech companies.
+
+Module 2
+
+Computer Science Fundamentals
+
+calender
+Duration: 2 Weeks
+
+Our code runs on hardware devices. So, in order to design & implement our high level solutions on machines that understand low level in an optimal & reliable way, we should have understanding around core CS topics.
+
+Topics that will be covered -
+
+Operating Systems
+Computer Networks
+Database Management systems
+
+Module 3:
+
+Topics that will be covered -
+
+Low-Level Design (LLD)
+
+Object Oriented Programming
+Solid Principles
+Design Patterns
+UML Diagram
+Schema Design
+API Design
+Case Studies- Machine Coding Interviews
+High-Level Design (HLD)
+
+Architecture Design
+Distributed Systems
+Domain Name System (DNS)
+Load Balancing
+Consistent Hashing
+CAP Theorem
+Caching
+Content Delivery Network (CDNs)
+Transactions
+SQL vs NoSQL
+Scalability
+ZooKeeper + Kafka (Distributed Messaging Queue)
+Microservices
+Security
+Case Studies
+
+Module 4:
+Topics that will be covered -
+
+HTML, CSS, JavaScript
+JS for Web Development (DOM Manipulation, Events)
+React
+Redux
+Git
+Node.js
+Backend Architecture
+MVC Framework
+API Design
+Creating modules, data access layers, controller, views
+Creating microservices
+Spring Boot
+Deployment on AWS, Security
