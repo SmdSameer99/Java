@@ -1,0 +1,63 @@
+Java Data Structures and Algorithms (DSA) Topics:
+
+1. Arrays
+2. Strings
+3. Linked Lists
+4. Stacks
+5. Queues
+6. Deques
+7. HashMaps
+8. HashSets
+9. Trees
+   - Binary Trees
+   - Binary Search Trees
+   - AVL Trees
+   - Red-Black Trees
+10. Heaps
+    - Min Heap
+    - Max Heap
+11. Graphs
+    - Adjacency Matrix
+    - Adjacency List
+    - Depth First Search (DFS)
+    - Breadth First Search (BFS)
+12. Sorting Algorithms
+    - Bubble Sort
+    - Selection Sort
+    - Insertion Sort
+    - Merge Sort
+    - Quick Sort
+    - Heap Sort
+13. Searching Algorithms
+    - Linear Search
+    - Binary Search
+14. Recursion
+15. Dynamic Programming
+16. Greedy Algorithms
+17. Backtracking
+18. Divide and Conquer
+19. Bit Manipulation
+20. Trie (Prefix Tree)
+21. Disjoint Set Union (Union-Find)
+22. Segment Trees
+23. Fenwick Trees (Binary Indexed Trees)
+24. KMP Algorithm (Knuth-Morris-Pratt)
+25. Rabin-Karp Algorithm
+26. Floyd-Warshall Algorithm
+27. Dijkstra's Algorithm
+28. Bellman-Ford Algorithm
+29. Kruskal's Algorithm
+30. Prim's Algorithm
+31. Topological Sorting
+32. Sliding Window Technique
+33. Two Pointer Technique
+34. Kadane's Algorithm
+35. Floyd's Cycle Detection Algorithm
+36. LRU Cache Implementation
+37. Suffix Arrays and Suffix Trees
+38. Z Algorithm
+39. Convex Hull Algorithm
+40. Longest Common Subsequence (LCS)
+41. Shortest Path Algorithms
+42. Maximum Flow Algorithms
+
