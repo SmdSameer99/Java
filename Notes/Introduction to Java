@@ -1,0 +1,27 @@
+#Into to Java
+- class-based, OOP language
+- platform-independent (JVM)
+- syntax similar to C/C++
+- strong memory management (Garbage Collection)
+- automatic memory management (Garbage Collection)
+- rich standard library (Java API)
+- multi-threading support
+- exception handling
+- security features (sandboxing, bytecode verification)
+- network programming support (sockets, RMI)
+- GUI programming support (AWT, Swing, JavaFX)
+
+- mobile development (Android)
+
+- web development (Java EE, Spring)
+
+- enterprise applications (Java EE, Spring)
+
+- big data (Hadoop, Spark)
+
+- scientific computing (Java libraries)
+
+- game development (LibGDX, jMonkeyEngine)
+
+- cloud computing (Java libraries, frameworks)
+
