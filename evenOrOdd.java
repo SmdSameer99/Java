@@ -12,5 +12,5 @@ public class evenOrOdd {
         String result = checkEvenOrOdd(number);
         System.out.println("The number " + number + " is " + result + ".");
     }
-    
+
 }
