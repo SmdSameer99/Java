@@ -1,0 +1,13 @@
+## Java Linked List
+
+### Use of Linked List:
+- Storing data dynamically
+- Implementing stacks and queues
+- Efficient insertion and deletion operations
+
+### Real-World Applications:
+- Browser history (back and forward navigation)
+- Music playlists (next and previous song navigation)
+- Undo functionality in text editors
+- Chaining in hash tables for collision resolution
+- Dynamic memory allocation

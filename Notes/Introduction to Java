@@ -25,3 +25,56 @@
 
 - cloud computing (Java libraries, frameworks)
 
+## Key Features of Java
+1. platform-independent (JVM)
+2. object-oriented (class-based, inheritance, polymorphism, encapsulation, abstraction)
+3. strong memory management (Garbage Collection)
+4. automatic memory management (Garbage Collection)
+5. rich standard library (Java API)
+6. multi-threading support
+7. exception handling
+8. security features (sandboxing, bytecode verification)
+9. network programming support (sockets, RMI)
+
+## How Java  code execution works
+- Java code is compiled into bytecode by the Java compiler (javac).
+- The bytecode is then executed by the Java Virtual Machine (JVM).  
+- The JVM interprets the bytecode and translates it into machine code for the host operating system.
+- This allows Java to be platform-independent, as the same bytecode can run on any platform with a compatible JVM.
+
+## Essential Java Terminology FYI
+- JVM (Java Virtual Machine): The runtime environment that executes Java bytecode.
+- JRE (Java Runtime Environment): The software package that provides the JVM and the Java standard library.
+- JDK (Java Development Kit): The software package that includes the JRE, the Java compiler, and other development tools.
+- JAR (Java Archive): A file format used to package Java classes and resources into a single file for distribution.
+- WAR (Web Application Archive): A file format used to package Java web applications for deployment on a servlet container or application server.
+- EAR (Enterprise Archive): A file format used to package Java EE applications for deployment on an application server.
+- API (Application Programming Interface): A set of classes and interfaces that provide a way for developers to interact with a software library or framework.
+- SDK (Software Development Kit): A set of tools and libraries that developers use to create software applications.
+- IDE (Integrated Development Environment): A software application that provides a comprehensive environment for software development, including code editing, debugging, and testing tools.
+- OOP (Object-Oriented Programming): A programming paradigm that uses objects to represent data and methods to manipulate that data.
+- IDE (Integrated Development Environment): A software application that provides a comprehensive environment for software development, including code editing, debugging, and testing tools.
+- JUnit: A testing framework for Java that allows developers to write and run unit tests.
+- Maven: A build automation tool for Java projects that manages dependencies and project structure.
+- Gradle: A build automation tool for Java projects that uses a Groovy-based DSL to define project structure and dependencies.
+- Ant: A build automation tool for Java projects that uses XML to define project structure and dependencies.
+
+
+## JDK vs JRE vs JVM
+- JDK (Java Development Kit): A software development kit that includes the JRE, the Java compiler, and other development tools. It is used for developing Java applications.
+- JRE (Java Runtime Environment): A software package that provides the JVM and the Java standard library. It is used for running Java applications.
+- JVM (Java Virtual Machine): The runtime environment that executes Java bytecode. It is part of the JRE and is responsible for interpreting and executing Java programs.
+- JDK includes the JRE, but the JRE does not include the JDK. The JDK is used for development, while the JRE is used for running Java applications. The JVM is the core component of the JRE that executes Java bytecode.
+- In summary, the JDK is for development, the JRE is for running applications, and the JVM is the engine that runs Java bytecode.
+
+
+what is java identifier?
+- A Java identifier is a name used to identify a variable, method, class, or other entity in a Java program.
+- Identifiers must start with a letter (a-z, A-Z), a dollar sign ($), or an underscore (_).
+- The rest of the identifier can contain letters, digits (0-9), dollar signs, or underscores.
+- Identifiers are case-sensitive, meaning that "myVariable" and "myvariable" are considered different identifiers.
+
+Methods
+-reuse code
+-
+
