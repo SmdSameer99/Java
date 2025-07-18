@@ -10,8 +10,8 @@ public class pairCubeCount {
                 // Check if the sum of cubes of i and j is a perfect cube
                 if(n == (i * i * i) + (j * j * j)){
                     count++;
-                    
-                           }           }
+                    }
+                }
         }
 
         System.out.println("Number of pairs (i, j) such that i < j and i^3 + j^3 is a perfect cube: " + count);
