@@ -1,0 +1,37 @@
+Java JShell was introduced int java 9
+
+// It is a REPL (Read-Eval-Print Loop) tool that allows you to execute Java code snippets interactively
+// It is useful for testing code snippets, exploring APIs, and learning Java without the need for a full project setup
+
+// To start JShell, you can run the command `jshell` in your terminal if you have Java 9 or later installed
+
+Jshell commands:
+// 1. `jshell` - Start the JShell REPL
+// 2. `exit` - Exit the JShell session
+// 3. `help` - Display help information
+// 4. `list` - List all defined variables, methods, and classes
+// 5. `import` - Import Java packages or classes
+// 6. `var` - Declare a variable
+// 7. `method` - Define a method
+// 8. `class` - Define a class
+// 9. `static` - Define a static method or variable
+// 10. `show` - Show the definition of a variable, method, or class
+// 11. `edit` - Edit a method or class definition
+// 12. `reset` - Reset the JShell session, clearing all definitions
+// 13. `save` - Save the current session to a file
+
+JShell example:
+jshell> int x = 10; // Declare a variable
+jshell> int y = 20; // Declare another variable
+jshell> int sum = x + y; // Calculate the sum
+jshell> System.out.println("Sum: " + sum); // Print the result
+// Output: Sum: 30
+
+// You can also use JShell to import classes and use them interactively
+jshell> import java.util.ArrayList; // Import ArrayList class
+jshell> ArrayList<String> list = new ArrayList<>(); // Create an ArrayList
+jshell> list.add("Hello"); // Add an element to the list
+jshell> list.add("World"); // Add another element
+jshell> System.out.println(list); // Print the list
+// Output: [Hello, World]
+
