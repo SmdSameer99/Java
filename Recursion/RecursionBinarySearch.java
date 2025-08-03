@@ -1,13 +1,24 @@
 package Recursion;
 
 public class RecursionBinarySearch {
+        static long startTime = System.currentTimeMillis();
+
 
     public static void main(String[] args) {
     
     int[] arr = {2, 3, 4, 10, 40, 44, 54, 56, 78, 99};
-     int search = 40;
-     System.out.println(search(arr, search, 0, arr.length - 1));
 
+    //give me larger array with 200 elements
+    int[] arrLarg = new int[200];
+    for (int i = 0; i < arrLarg.length; i++) {
+        arrLarg[i] = i * 2; // fill with even numbers
+    }
+
+     int search = 40;
+     System.out.println(search(arrLarg, search, 0, arrLarg.length - 1));
+
+    // Example usage
+        System.out.println("Time taken: " + (System.currentTimeMillis() - startTime) + " ms");
 }
 
 static int search(int[] arr, int target, int s, int e) {
