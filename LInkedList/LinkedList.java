@@ -39,9 +39,6 @@ public class LinkedList {
 
         Node temp = head;
         for (int i = 0; i < index - 1; i++) {
-            if (temp == null) {
-                throw new IndexOutOfBoundsException("Index out of bounds");
-            }
             temp = temp.next;
         }
 
