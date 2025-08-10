@@ -1,2 +1,128 @@
 #4 Ioc and DI in spring
 
+# Java Spring & Spring Boot Full Stack Developer Roadmap
+
+## 1. Core Java
+- OOP concepts (Inheritance, Polymorphism, Encapsulation, Abstraction)
+- Exception handling
+- Collections framework
+- Multithreading
+- Streams & Lambda expressions
+
+## 2. SQL & Databases
+- Relational databases (MySQL, PostgreSQL, Oracle)
+- CRUD operations
+- Joins, indexes, transactions
+- JDBC basics
+
+## 3. Version Control
+- Git basics (clone, commit, push, pull, branch, merge)
+- GitHub workflows
+
+## 4. Web Basics
+- HTTP/HTTPS, REST principles
+- HTML, CSS, JavaScript fundamentals
+- JSON/XML
+
+## 5. Spring Framework
+- Introduction to Spring
+- IoC (Inversion of Control) & DI (Dependency Injection)
+- Spring Beans & Bean Lifecycle
+- Spring Core Annotations
+- Spring Configuration (XML, Java, Annotations)
+
+## 6. Spring Boot
+- Introduction to Spring Boot
+- Auto-configuration
+- Starter dependencies
+- Application properties
+- Profiles
+- Running & packaging Spring Boot apps
+
+## 7. Spring MVC
+- Controllers, Services, Repositories
+- Request mapping
+- Model, View, Controller pattern
+- Form handling & validation
+- Exception handling
+
+## 8. Data Access
+- Spring Data JPA
+- Hibernate ORM
+- Entity, Repository, Query methods
+- Transactions & Rollback
+
+## 9. RESTful Web Services
+- Building REST APIs with Spring Boot
+- CRUD endpoints
+- Request/Response mapping
+- Exception handling
+- Swagger/OpenAPI documentation
+
+## 10. Security
+- Spring Security basics
+- Authentication & Authorization
+- JWT (JSON Web Token)
+- OAuth2 basics
+
+## 11. Testing
+- Unit testing (JUnit, Mockito)
+- Integration testing
+- Test-driven development (TDD)
+
+## 12. Frontend Technologies
+- HTML, CSS, JavaScript (ES6+)
+- Modern JS frameworks: React.js, Angular, or Vue.js
+- Consuming REST APIs
+- State management (Redux, Context API)
+
+## 13. Build Tools & Deployment
+- Maven/Gradle basics
+- Building and packaging apps
+- Docker basics
+- CI/CD pipelines (Jenkins, GitHub Actions)
+- Deploying to cloud (AWS, Azure, GCP)
+
+## 14. Advanced Topics
+- Microservices architecture
+- Spring Cloud basics
+- Service discovery (Eureka)
+- API Gateway (Zuul, Spring Cloud Gateway)
+- Circuit Breaker (Resilience4j, Hystrix)
+- Monitoring (Actuator, Prometheus, Grafana)
+
+## 15. Soft Skills & Best Practices
+- Agile methodologies (Scrum, Kanban)
+- Code reviews
+- Documentation
+- Communication & teamwork
+
+---
+
+# Topics to Complete
+- Core Java & OOP
+- SQL & Databases
+- Git & Version Control
+- Web basics (HTML, CSS, JS)
+- Spring Core, IoC, DI
+- Spring Boot fundamentals
+- Spring MVC & REST APIs
+- Data access (JPA, Hibernate)
+- Security (Spring Security, JWT)
+- Testing (JUnit, Mockito)
+- Frontend (React/Angular/Vue)
+- Build tools (Maven/Gradle)
+- Docker & CI/CD
+- Microservices & Spring Cloud
+- Deployment & Monitoring
+- Soft skills & best practices
+
+---
+
+# Tips
+- Build projects for hands-on experience
+- Practice coding and debugging
+- Read official documentation
+- Join developer communities
+- Stay updated with new technologies
+
