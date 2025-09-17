@@ -1,0 +1,35 @@
+Cyclic Sort is an in-place sorting algorithm used for arrays containing distinct integers within a specific range, typically from 1 to N (or 0 to N-1 for 0-based indexing). It works by placing each element in its correct sorted position by iteratively swapping it with the element that should occupy that position. 
+
+Algorithm Steps:
+Initialize an index i to 0.
+Iterate while i is less than the length of the array:
+a. Calculate the correctIndex for the element arr[i]. If the range is 1 to N, then correctIndex = arr[i] - 1. If the range is 0 to N-1, then correctIndex = arr[i]. b. If the element arr[i] is not already at its correctIndex (i.e., arr[i] != arr[correctIndex]), swap arr[i] with arr[correctIndex]. c. If arr[i] is already at its correctIndex, increment i to move to the next element.
+
+example test case:
+Input: [3, 1, 5, 4, 2]
+Output: [1, 2, 3, 4, 5]
+
+at index 0:
+- arr[0] = 3, correctIndex = 2
+- Swap arr[0] with arr[2]: [5, 1, 3, 4, 2]
+at index 0:
+- arr[0] = 5, correctIndex = 4
+- Swap arr[0] with arr[4]: [2, 1, 3, 4, 5]
+at index 0:
+- arr[0] = 2, correctIndex = 1
+- Swap arr[0] with arr[1]: [1, 2, 3, 4, 5]
+at index 0:
+- arr[0] = 1, correctIndex = 0
+- Increment i to 1
+at index 1:
+- arr[1] = 2, correctIndex = 1
+- Increment i to 2
+at index 2:
+
+.........so on until the array is sorted.
+
+
+Key Characteristics:
+Time Complexity: O(N), as each element is visited and potentially swapped at most a constant number of times.
+Space Complexity: O(1), as it sorts in-place without requiring additional data structures.
+Use Case: Ideal for sorting arrays of distinct integers within a known, contiguous range.
